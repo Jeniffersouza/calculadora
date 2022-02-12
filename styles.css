@@ -31,7 +31,7 @@ body{
 }
 .calculator span{
     display: grid;
-    width: 60px;
+    width: 90px;
     height: 60px;
     color: #fff;
     background-color: #0c2835;
