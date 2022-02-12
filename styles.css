@@ -13,7 +13,8 @@ body{
     flex-direction: column;
     align-items: center;
     min-height: 100vh;
-    background-color: #d812a7;;
+    background-color: #ac5395;
+    color: white;
 }
 .calculator{
 
@@ -45,7 +46,7 @@ body{
 
 .calculator span.clear{
     grid-column: span 2;
-    width: 120px;
+    width: 180px;
     background: #ff3077;
 }
 .calculator span.plus{
